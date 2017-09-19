@@ -1,2 +1,2 @@
 # moneta
-An app that sends users colorful recurring reminders every now and then to inspire and remind about important things.
+A colorful Windows app that sends users occasional, powerful reminders for a few important goals. Utilizes prominent UI schemes to create an eye-catching effect, in order to drive the reminder home.
